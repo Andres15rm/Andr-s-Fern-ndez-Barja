@@ -1,0 +1,17 @@
+com\examen\biblioteca\model\LibroDTO.class
+com\examen\biblioteca\mappers\LibroMapper.class
+com\examen\biblioteca\persistence\entities\AutorEntity.class
+com\examen\biblioteca\controllers\LibroRestController.class
+com\examen\biblioteca\BibliotecaApplication.class
+com\examen\biblioteca\mappers\AutorMapper.class
+com\examen\biblioteca\persistence\entities\LibroEntity.class
+com\examen\biblioteca\persistence\repositories\AutorRepository.class
+com\examen\biblioteca\services\LibroService.class
+com\examen\biblioteca\persistence\repositories\LibroRepository.class
+com\examen\biblioteca\mappers\LibroMapperImpl.class
+com\examen\biblioteca\services\AutorServiceImpl.class
+com\examen\biblioteca\model\AutorDTO.class
+com\examen\biblioteca\services\LibroServiceImpl.class
+com\examen\biblioteca\services\AutorService.class
+com\examen\biblioteca\controllers\AutorRestController.class
+com\examen\biblioteca\mappers\AutorMapperImpl.class
